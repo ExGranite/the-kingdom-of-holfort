@@ -1,6 +1,6 @@
 # THE KINGDOM OF HOLFORT
 
-This is a project made by me to evaluate the performance of my students in the Computer Networks course labwork.
+This is a project made by me to evaluate the performance of my students in the Computer Networks course lab work.
 
 Software Used for Simulation: [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 <br> Project Topic: [The Kingdom of Holfort](https://github.com/ExGranite/the-kingdom-of-holfort/blob/main/The%20Kingdom%20of%20Holfort.pdf)
